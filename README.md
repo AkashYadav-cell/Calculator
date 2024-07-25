@@ -1,4 +1,4 @@
-# Calculator
+# Calculator (CodSoft)
 
 This scientific calculator built using Python and Tkinter provides a comprehensive set of mathematical functions suitable for both standard and scientific calculations. Here's a brief overview of its features:
 
